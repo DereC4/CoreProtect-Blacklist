@@ -131,6 +131,7 @@ minecraft:ravager@#drowning
 minecraft:iron_golem@#drowning
 minecraft:glow_squid@#drowning
 minecraft:slime@#drowning
+minecraft:squid@#drowning
 
 ; --- CONTACT KILLS (Cactus/Dripstone) ---
 minecraft:guardian@#contact
