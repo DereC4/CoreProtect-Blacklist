@@ -29,6 +29,7 @@ minecraft:stray@#fall
 minecraft:pillager@#fall
 minecraft:cave_spider@#fall
 minecraft:sulfur_cube@#fall
+minecraft:axolotl@#fall
 
 ; --- LAVA KILLS ---
 minecraft:axolotl@#lava
@@ -120,6 +121,7 @@ minecraft:zoglin@#campfire
 minecraft:guardian@#suffocation
 minecraft:shulker@#shulker_bullet
 minecraft:glow_squid@#glow_squid
+
 ; --- WITHER EFFECTS (Wither Rose/Wither Farms) ---
 minecraft:zombie@#wither_effect
 minecraft:skeleton@#wither_effect
@@ -131,6 +133,8 @@ minecraft:stray@#wither_effect
 minecraft:shulker@#wither_effect
 
 minecraft:enderman@#iron_golem
+minecraft:axolotl@#drowned
+minecraft:axolotl@#axolotl
 
 ; Suffocation
 minecraft:iron_golem@#suffocation
