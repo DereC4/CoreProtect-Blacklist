@@ -87,6 +87,8 @@ minecraft:wither_skeleton@#campfire
 minecraft:wandering_trader@#campfire
 minecraft:snow_golem@#campfire
 minecraft:bat@#campfire
+minecraft:hoglin@#campfire
+minecraft:zoglin@#campfire
 
 ; --- OTHER FARM TYPES ---
 minecraft:guardian@#suffocation
