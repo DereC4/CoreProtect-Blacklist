@@ -5,6 +5,8 @@
 DerexXD
 #bonemeal
 #gravity
+#glow_squid
+#squid
 
 ; --- FALL DAMAGE (Drop Farms) ---
 minecraft:glow_squid@#fall
@@ -39,6 +41,7 @@ minecraft:silverfish@#lava
 minecraft:evoker@#lava
 minecraft:vindicator@#lava
 minecraft:ravager@#lava
+minecraft:bat@#lava
 minecraft:cod@#lava
 minecraft:salmon@#lava
 minecraft:pufferfish@#lava
@@ -52,6 +55,7 @@ minecraft:creeper@#fire
 minecraft:enderman@#fire
 minecraft:witch@#fire
 minecraft:pillager@#fire
+minecraft:phantom@#fire
 
 ; --- CAMPFIRE KILLS ---
 minecraft:guardian@#campfire
@@ -73,11 +77,12 @@ minecraft:blaze@#campfire
 minecraft:wither_skeleton@#campfire
 minecraft:wandering_trader@#campfire
 minecraft:snow_golem@#campfire
+minecraft:bat@#campfire
 
 ; --- OTHER FARM TYPES ---
 minecraft:guardian@#suffocation
 minecraft:shulker@#shulker_bullet
-
+minecraft:glow_squid@#glow_squid
 ; --- WITHER EFFECTS (Wither Rose/Wither Farms) ---
 minecraft:zombie@#wither_effect
 minecraft:skeleton@#wither_effect
@@ -86,6 +91,7 @@ minecraft:spider@#wither_effect
 minecraft:enderman@#wither_effect
 minecraft:husk@#wither_effect
 minecraft:stray@#wither_effect
+minecraft:shulker@#wither_effect
 
 minecraft:enderman@#iron_golem
 
@@ -126,6 +132,8 @@ minecraft:iron_golem@#drowning
 minecraft:glow_squid@#drowning
 minecraft:slime@#drowning
 minecraft:squid@#drowning
+minecraft:squid@#dryout
+minecraft:glow_squid@#dryout
 
 ; --- CONTACT KILLS (Cactus/Dripstone) ---
 minecraft:guardian@#contact
@@ -169,3 +177,9 @@ minecraft:silverfish@#void
 minecraft:evoker@#void
 minecraft:vindicator@#void
 minecraft:ravager@#void
+
+; --- ZOMBIE ORE & DRIPLEAF SPAM ---
+minecraft:deepslate_redstone_ore@#zombie
+minecraft:redstone_ore@#zombie
+minecraft:big_dripleaf@#zombie
+minecraft:big_dripleaf_stem@#zombie
