@@ -5,8 +5,6 @@
 DerexXD
 #bonemeal
 #gravity
-#glow_squid
-#squid
 
 ; --- FALL DAMAGE (Drop Farms) ---
 minecraft:glow_squid@#fall
