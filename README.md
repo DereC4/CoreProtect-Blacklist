@@ -3,5 +3,5 @@ Entities take up the most database space in CoreProtect, around 5 times more tha
 
 Copy this into your `blacklist.txt`
 
-<!-- START_BLACKLIST -->
-<!-- END_BLACKLIST -->
+<!-- START_BLACKLIST_DEREXXD -->
+<!-- END_BLACKLIST_DEREXXD -->
