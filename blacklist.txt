@@ -56,6 +56,8 @@ minecraft:enderman@#fire
 minecraft:witch@#fire
 minecraft:pillager@#fire
 minecraft:phantom@#fire
+minecraft:creeper@#lava
+minecraft:iron_golem@#lava
 
 ; --- CAMPFIRE KILLS ---
 minecraft:guardian@#campfire
