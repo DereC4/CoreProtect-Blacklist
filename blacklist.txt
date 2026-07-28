@@ -23,6 +23,7 @@ minecraft:husk@#fall
 minecraft:stray@#fall
 minecraft:pillager@#fall
 minecraft:cave_spider@#fall
+minecraft:sulfur_cube@#fall
 
 ; --- LAVA & FIRE (Iron/Mob Farms) ---
 minecraft:spider@#lava
