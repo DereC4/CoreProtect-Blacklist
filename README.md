@@ -30,7 +30,7 @@ minecraft:pillager@#fall
 minecraft:cave_spider@#fall
 minecraft:sulfur_cube@#fall
 
-; --- LAVA & FIRE (Iron/Mob Farms) ---
+; --- LAVA KILLS ---
 minecraft:spider@#lava
 minecraft:enderman@#lava
 minecraft:witch@#lava
@@ -48,13 +48,17 @@ minecraft:evoker@#lava
 minecraft:vindicator@#lava
 minecraft:ravager@#lava
 minecraft:bat@#lava
-minecraft:bat@#fire
 minecraft:cod@#lava
 minecraft:salmon@#lava
 minecraft:pufferfish@#lava
 minecraft:tropical_fish@#lava
 minecraft:chicken@#lava
 minecraft:axolotl@#lava
+minecraft:creeper@#lava
+minecraft:iron_golem@#lava
+
+; --- FIRE KILLS ---
+minecraft:bat@#fire
 minecraft:spider@#fire
 minecraft:zombie@#fire
 minecraft:skeleton@#fire
@@ -63,8 +67,6 @@ minecraft:enderman@#fire
 minecraft:witch@#fire
 minecraft:pillager@#fire
 minecraft:phantom@#fire
-minecraft:creeper@#lava
-minecraft:iron_golem@#lava
 
 ; --- CAMPFIRE KILLS ---
 minecraft:guardian@#campfire
