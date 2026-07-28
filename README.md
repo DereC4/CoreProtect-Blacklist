@@ -123,7 +123,6 @@ minecraft:pillager@#suffocation
 minecraft:evoker@#suffocation
 minecraft:vindicator@#suffocation
 minecraft:ravager@#suffocation
-minecraft:witch@#suffocation
 
 ; --- DROWNING KILLS ---
 minecraft:zombie@#drowning
