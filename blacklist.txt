@@ -42,6 +42,7 @@ minecraft:evoker@#lava
 minecraft:vindicator@#lava
 minecraft:ravager@#lava
 minecraft:bat@#lava
+minecraft:bat@#fire
 minecraft:cod@#lava
 minecraft:salmon@#lava
 minecraft:pufferfish@#lava
