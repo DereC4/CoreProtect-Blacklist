@@ -48,7 +48,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run Update Script
-        run: python update_readme.py
+        run: python updater.py
 
       - name: Commit and Push Changes
         run: |
