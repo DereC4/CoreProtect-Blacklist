@@ -228,5 +228,26 @@ minecraft:deepslate_redstone_ore@#zombie
 minecraft:redstone_ore@#zombie
 minecraft:big_dripleaf@#zombie
 minecraft:big_dripleaf_stem@#zombie
+
+; --- FREEZE DAMAGE (Powder Snow / Snow Farms) ---
+minecraft:zombie@#freeze
+minecraft:skeleton@#freeze
+minecraft:creeper@#freeze
+minecraft:spider@#freeze
+minecraft:cave_spider@#freeze
+minecraft:enderman@#freeze
+minecraft:witch@#freeze
+minecraft:zombie_villager@#freeze
+minecraft:drowned@#freeze
+minecraft:husk@#freeze
+minecraft:stray@#freeze
+minecraft:pillager@#freeze
+minecraft:evoker@#freeze
+minecraft:vindicator@#freeze
+minecraft:ravager@#freeze
+minecraft:phantom@#freeze
+minecraft:slime@#freeze
+minecraft:magma_cube@#freeze
+minecraft:silverfish@#freeze
 ```
 <!-- END_BLACKLIST_DEREXXD -->
