@@ -115,6 +115,9 @@ minecraft:guardian@#suffocation
 minecraft:shulker@#shulker_bullet
 minecraft:glow_squid@#glow_squid
 minecraft:zombie@#zombie
+minecraft:trader_llama@#zombie
+minecraft:zombie@#llama_spit
+minecraft:trader_llama@#llama_spit
 
 ; --- WITHER EFFECTS (Wither Rose/Wither Farms) ---
 minecraft:zombie@#wither_effect
