@@ -207,6 +207,7 @@ minecraft:drowned@#contact
 minecraft:sulfur_cube@#contact
 minecraft:squid@#contact
 minecraft:nautilus@#contact
+minecraft:axolotl@#contact
 
 ; --- VOID DAMAGE (End/Perimeter Farms) ---
 minecraft:enderman@#void
