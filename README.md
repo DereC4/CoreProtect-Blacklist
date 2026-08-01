@@ -176,6 +176,7 @@ minecraft:squid@#dryout
 minecraft:glow_squid@#dryout
 minecraft:bat@#drowning
 minecraft:sulfur_cube@#drowning
+nautilus@#dryout
 
 ; --- CONTACT KILLS (Cactus/Dripstone) ---
 minecraft:guardian@#contact
@@ -201,6 +202,7 @@ minecraft:glow_squid@#contact
 minecraft:drowned@#contact
 minecraft:sulfur_cube@#contact
 minecraft:squid@#contact
+nautilus@#contact
 
 ; --- VOID DAMAGE (End/Perimeter Farms) ---
 minecraft:enderman@#void
