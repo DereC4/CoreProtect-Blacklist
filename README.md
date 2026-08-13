@@ -264,5 +264,6 @@ minecraft:zombie@#iron_golem
 ; --- AXOLOTL HUNTING KILLS ---
 minecraft:glow_squid@#axolotl
 minecraft:tropical_fish@#axolotl
+minecraft:axolotl@#axolotl
 ```
 <!-- END_BLACKLIST_DEREXXD -->
