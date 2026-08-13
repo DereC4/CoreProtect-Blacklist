@@ -115,9 +115,6 @@ minecraft:guardian@#suffocation
 minecraft:shulker@#shulker_bullet
 minecraft:glow_squid@#glow_squid
 minecraft:zombie@#zombie
-minecraft:trader_llama@#zombie
-minecraft:zombie@#llama_spit
-minecraft:trader_llama@#llama_spit
 
 ; --- WITHER EFFECTS (Wither Rose/Wither Farms) ---
 minecraft:zombie@#wither_effect
@@ -251,6 +248,12 @@ minecraft:endermite@#enderman
 minecraft:iron_golem@#skeleton
 minecraft:zombie@#iron_golem
 minecraft:enderman@#iron_golem
+minecraft:trader_llama@#drowned
+minecraft:wandering_trader@#drowned
+minecraft:drowned@#llama_spit
+minecraft:trader_llama@#zombie
+minecraft:zombie@#llama_spit
+minecraft:trader_llama@#llama_spit
 
 ; --- AXOLOTL HUNTING KILLS ---
 minecraft:glow_squid@#axolotl
