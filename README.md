@@ -138,7 +138,6 @@ minecraft:shulker@#wither_effect
 
 minecraft:enderman@#iron_golem
 minecraft:axolotl@#drowned
-minecraft:axolotl@#axolotl
 
 ; Suffocation
 minecraft:iron_golem@#suffocation
@@ -261,5 +260,9 @@ minecraft:silverfish@#freeze
 minecraft:endermite@#enderman
 minecraft:iron_golem@#skeleton
 minecraft:zombie@#iron_golem
+
+; --- AXOLOTL HUNTING KILLS ---
+minecraft:glow_squid@#axolotl
+minecraft:tropical_fish@#axolotl
 ```
 <!-- END_BLACKLIST_DEREXXD -->
