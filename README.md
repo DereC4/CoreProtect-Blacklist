@@ -256,5 +256,10 @@ minecraft:phantom@#freeze
 minecraft:slime@#freeze
 minecraft:magma_cube@#freeze
 minecraft:silverfish@#freeze
+
+; --- MOB ON MOB VIOLENCE ---
+minecraft:endermite@#enderman
+minecraft:iron_golem@#skeleton
+minecraft:zombie@#iron_golem
 ```
 <!-- END_BLACKLIST_DEREXXD -->
