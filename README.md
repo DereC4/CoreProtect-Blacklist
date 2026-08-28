@@ -12,6 +12,8 @@ Copy this into your `blacklist.txt`
 DerexXD
 #bonemeal
 #gravity
+minecraft:water@#portal
+minecraft:sand@#portal
 
 ; --- FALL DAMAGE (Drop Farms) ---
 minecraft:glow_squid@#fall
