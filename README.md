@@ -177,6 +177,7 @@ minecraft:bat@#drowning
 minecraft:sulfur_cube@#drowning
 minecraft:nautilus@#dryout
 minecraft:tropical_fish@#dryout
+minecraft:cod@#dryout
 
 ; --- CONTACT KILLS (Cactus/Dripstone) ---
 minecraft:guardian@#contact
