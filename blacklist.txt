@@ -220,11 +220,13 @@ minecraft:evoker@#void
 minecraft:vindicator@#void
 minecraft:ravager@#void
 
-; --- ZOMBIE ORE & DRIPLEAF SPAM ---
+; --- REDSTONE ORE & DRIPLEAF SPAM ---
 minecraft:deepslate_redstone_ore@#zombie
 minecraft:redstone_ore@#zombie
 minecraft:big_dripleaf@#zombie
 minecraft:big_dripleaf_stem@#zombie
+minecraft:big_dripleaf@#enderman
+minecraft:big_dripleaf_stem@#enderman
 
 ; --- FREEZE DAMAGE (Powder Snow / Snow Farms) ---
 minecraft:zombie@#freeze
