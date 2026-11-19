@@ -260,6 +260,7 @@ minecraft:silverfish@#freeze
 minecraft:endermite@#enderman
 minecraft:iron_golem@#skeleton
 minecraft:zombie@#iron_golem
+minecraft:drowned@#iron_golem
 minecraft:enderman@#iron_golem
 minecraft:trader_llama@#drowned
 minecraft:wandering_trader@#drowned
