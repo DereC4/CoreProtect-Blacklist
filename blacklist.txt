@@ -272,6 +272,9 @@ minecraft:slime@#iron_golem
 minecraft:zombified_piglin@#iron_golem
 minecraft:guardian@#iron_golem
 minecraft:witch@#iron_golem
+minecraft:endermite@#iron_golem
+minecraft:vindicator@#iron_golem
+minecraft:evoker@#iron_golem
 
 ; --- AXOLOTL HUNTING KILLS ---
 minecraft:glow_squid@#axolotl
