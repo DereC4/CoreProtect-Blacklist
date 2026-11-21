@@ -268,6 +268,10 @@ minecraft:drowned@#llama_spit
 minecraft:trader_llama@#zombie
 minecraft:zombie@#llama_spit
 minecraft:trader_llama@#llama_spit
+minecraft:husk@#iron_golem
+minecraft:parched@#iron_golem
+minecraft:skeleton@#iron_golem
+minecraft:pillager@#iron_golem
 
 ; --- AXOLOTL HUNTING KILLS ---
 minecraft:glow_squid@#axolotl
