@@ -274,6 +274,11 @@ minecraft:skeleton@#iron_golem
 minecraft:pillager@#iron_golem
 minecraft:drowned@#iron_golem
 minecraft:spider@#iron_golem
+minecraft:zombie_villager@#iron_golem
+minecraft:slime@#iron_golem
+minecraft:zombified_piglin@#iron_golem
+minecraft:guardian@#iron_golem
+minecraft:witch@#iron_golem
 
 ; --- AXOLOTL HUNTING KILLS ---
 minecraft:glow_squid@#axolotl
